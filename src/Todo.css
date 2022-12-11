@@ -1,0 +1,31 @@
+.done {
+  background-color: #d8cfd3;
+  box-shadow: 2px 0px 2px 1px rgba(0, 0, 0, 0.5);
+  word-wrap: break-word;
+}
+
+#todo {
+  margin-top: 2%;
+  width: 82%;
+  height: auto;
+  font-size: 30px;
+  border: 1px;
+  word-wrap: break-word;
+  margin-left: 10%;
+  margin-right: 0%;
+  border-radius: 5px;
+  border: 1px solid #000000;
+  word-wrap: break-word;
+}
+
+.deletbutton {
+  width: 10%;
+  height: 35px;
+  font-size: 20px;
+  border: none;
+  border-radius: 5px;
+  background: #bd0e58;
+  color: #fff;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  float: right;
+}
